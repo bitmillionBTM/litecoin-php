@@ -12,3 +12,13 @@ From CLI:
 ```bash
 php litecoin-values.php [AMOUNT]
 ```
+
+Results will be like:
+
+```bash
+$ php litecoin-values.php 5.23
+
+Currency: Litecoin [269.80$]
+Amount (USD): 5.23000000L [1,411.05$]
+Amount (EUR): 5.23000000L [1,198.13€]
+```
